@@ -1,1 +1,2 @@
-first python
+#FirstPython
+print("New Python Crap")
